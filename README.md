@@ -1,1 +1,3 @@
 # Personal-Health-Dashboard---Data-Visualizations
+
+This GitHub repository hosts the "Personal Health Dashboard" project, a dynamic tool for tracking and visualizing health metrics. It features code and documentation for displaying average heart rate, daily steps, calorie intake, and exercise session data, alongside a graph that reflects the health score over time. This project is aimed at those interested in personal health management and data visualization enthusiasts. Contributions to enhance functionality or improve user experience are warmly welcomed as we expand the capabilities of health-tracking technologies.
